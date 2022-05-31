@@ -1,1 +1,1 @@
-I/O Input and special character
+input, output and special characters
